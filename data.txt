@@ -3,3 +3,4 @@
   - Menambahkan file data txt ke git
   - belajar git 
   - membuat repository
+  - web developer
